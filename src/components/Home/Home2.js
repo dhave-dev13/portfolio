@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/me-copped.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,21 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming, seeing things that I imagined being materialized in a computer or any platform.
+              Seeing how fast faced the web and mobile technologies have grown, I have set my self up for mobile app development and the rest as per the need arises.
               <br />
-              <br />I am fluent in classics like
+              <br />Some of my fluent web and mobile programming languages are:
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> PHP, C#/Asp.Net, Javascript and dart for Flutter. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Mobile Application Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Small to Enterprise solutions.
                 </b>
               </i>
               <br />
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/dhave-dev13"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://x.com/Dev13Dhave"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/dhave-barsalote-3b5308148/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/dhavebarsalote/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

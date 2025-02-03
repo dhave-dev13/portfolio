@@ -4,7 +4,7 @@ import { CgMonday } from "react-icons/cg";
 import { DiJavascript1, DiNodejs } from "react-icons/di";
 import { GrReactjs } from "react-icons/gr";
 import { PiFileCSharp } from "react-icons/pi";
-import { SiAndroid, SiFirebase, SiFlutter, SiGithub, SiMake, SiSap } from "react-icons/si";
+import { SiAndroid, SiAwsamplify, SiFirebase, SiFlutter, SiGithub, SiMake, SiSap } from "react-icons/si";
 
 
 function Techstack() {
@@ -23,16 +23,13 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <GrReactjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
+        <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <SiAwsamplify />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <CgMonday />
