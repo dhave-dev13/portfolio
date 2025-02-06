@@ -31,7 +31,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Keep progressing, until perfection!"{" "}
+            "Not perfection, but progression!"{" "}
           </p>
           <footer className="blockquote-footer">Dhave B.</footer>
         </blockquote>
