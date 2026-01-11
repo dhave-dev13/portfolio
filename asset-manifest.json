@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.832dd218.css",
-    "main.js": "/portfolio/static/js/main.24077bf0.js",
+    "main.js": "/portfolio/static/js/main.02cbc410.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/inspiredLearningAi.webp": "/portfolio/static/media/inspiredLearningAi.d7ec71d91d1b7008aff7.webp",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.832dd218.css.map": "/portfolio/static/css/main.832dd218.css.map",
-    "main.24077bf0.js.map": "/portfolio/static/js/main.24077bf0.js.map",
+    "main.02cbc410.js.map": "/portfolio/static/js/main.02cbc410.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.832dd218.css",
-    "static/js/main.24077bf0.js"
+    "static/js/main.02cbc410.js"
   ]
 }
