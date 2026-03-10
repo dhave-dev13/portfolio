@@ -43,7 +43,8 @@ function Projects() {
               imgPath={regalatop}
               isBlog={true}
               title="regalatop"
-              description="Regala Top is everyone's favorite app for virtual gift registries, whether you're planning a baby shower, birthday, wedding, or any other special occasion. With Regala Top, creating your gift registry is simple, sharing it is instant, and receiving gifts becomes magical."          
+              description="Regala Top is everyone's favorite app for virtual gift registries, whether you're planning a baby shower, birthday, wedding, or any other special occasion. With Regala Top, creating your gift registry is simple, sharing it is instant, and receiving gifts becomes magical."
+              demoLink="https://regalatop.cl/"
             />
           </Col>
         </Row>
