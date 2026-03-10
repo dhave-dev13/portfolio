@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.832dd218.css",
-    "main.js": "/portfolio/static/js/main.02cbc410.js",
+    "main.js": "/portfolio/static/js/main.c8556f4f.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/inspiredLearningAi.webp": "/portfolio/static/media/inspiredLearningAi.d7ec71d91d1b7008aff7.webp",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/mobile-app-preview.png": "/portfolio/static/media/mobile-app-preview.8a5d6b8130418e147949.png",
     "static/media/banner-pos-model.webp": "/portfolio/static/media/banner-pos-model.6416109dd09d1047f1c8.webp",
     "static/media/Dhave-Barsalote-Resume.pdf": "/portfolio/static/media/Dhave-Barsalote-Resume.8950cdc79710de3c952f.pdf",
-    "static/media/mhapp-inventory-5.png": "/portfolio/static/media/mhapp-inventory-5.5c4c4adf73f61024725b.png",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/me-copped.jpg": "/portfolio/static/media/me-copped.4a1dbe6cfa330746124b.jpg",
     "static/media/DB.png": "/portfolio/static/media/DB.45e13c8c2f5df7c61747.png",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.832dd218.css.map": "/portfolio/static/css/main.832dd218.css.map",
-    "main.02cbc410.js.map": "/portfolio/static/js/main.02cbc410.js.map",
+    "main.c8556f4f.js.map": "/portfolio/static/js/main.c8556f4f.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.832dd218.css",
-    "static/js/main.02cbc410.js"
+    "static/js/main.c8556f4f.js"
   ]
 }
