@@ -7,8 +7,9 @@ function Type() {
       options={{
         strings: [
           "Software Developer",
-          "Freelancer",
-          "Automation Specialist",
+          "Mobile App Developer",
+          "Web Developer",
+          "SAP Business One Administrator",
         ],
         autoStart: true,
         loop: true,

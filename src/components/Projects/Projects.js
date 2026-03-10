@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import epi320 from "../../Assets/Projects/mhapp-inventory-5.png";
+import regalatop from "../../Assets/Projects/mobile-app-preview.png";
 import peddlr from "../../Assets/Projects/banner-pos-model.webp";
 import inspiredLearningAi from "../../Assets/Projects/inspiredLearningAi.webp";
 
@@ -31,7 +31,6 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={inspiredLearningAi}
-              height="450"
               isBlog={true}
               title="Inspired Learning AI"
               description="Ace your GCSEs with Inspired Learning! Discover a revolutionary way to prepare for your GCSE exams. Our app is designed for your own learning style and to keep you motivated every step of the way. With personalised impactful learning, quizzes and live AI marking, it’s your perfect study guide. Don’t just use it for GCSE revision, use it to learn in the first place!"
@@ -41,11 +40,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={epi320}
-              height="550"
+              imgPath={regalatop}
               isBlog={true}
-              title="epi320"
-              description="An internal flutter application that connects SAP Business One api to create Inventory Transactions - WIP"          
+              title="regalatop"
+              description="Regala Top is everyone's favorite app for virtual gift registries, whether you're planning a baby shower, birthday, wedding, or any other special occasion. With Regala Top, creating your gift registry is simple, sharing it is instant, and receiving gifts becomes magical."          
             />
           </Col>
         </Row>
